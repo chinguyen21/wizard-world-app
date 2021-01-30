@@ -26,7 +26,7 @@ A wizard world application inspired by my favorite fiction book Harry Potter. It
 
 ## FEATURES
 
-* If user is the head of the house, they can enter name of the house and house code to see all the wizards belong to their house.
+* If user is the head of a house, they can enter name of the house and house code to see all the wizards belong to their house.
 * Users can register to become a wizard or enter the magical world if they have the right wizard code.(Check out Harry Potter using this information: {name: "Harry Potter", wizard code: "harry2021"}).
 * When succesfully enrolled to Hogward Magical School, wizards can see their information and can ask the Sorting hat to choose the right house for them.
 * Wizards can leave a house and join other houses.
