@@ -1,0 +1,203 @@
+/*Intro Part*/
+
+#intro {
+	background: url(../images/harry/1267875.jpg) no-repeat center bottom;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100%;
+	min-height: 1400px;
+	display: table;
+	position: relative;
+	text-align: center;
+}
+
+#intro .header h1 {
+		text-align: center;
+    font-size: 60px;
+		padding-top: 240px;
+		padding-bottom: 5px;
+		color: #680c0c;
+}
+
+.transition {
+	display: none;
+}
+
+#alert-wrong-pw {
+	color: rgb(143, 49, 49);
+}
+
+/* End Intro Part*/
+
+/*Wizard Show Part*/
+
+
+#wizard-information {
+	background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	width: 100%;
+	height: 80%;
+	min-height: 1400px;
+	text-align: center;
+	position: relative;
+}
+
+#wizard-image {
+    width: 100%;
+    height: 15vw;
+    /* object-fit: cover; */
+}
+
+/*End Wizard Display*/
+
+
+
+/*Book Display*/
+
+
+#books-information {
+	background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	width: 100%;
+	height: auto;
+	min-height: 2300px;
+	text-align: center;
+	position: relative;
+}
+
+#book-image {
+	width: 100%;
+	height: 15vw;
+	/* object-fit: cover; */
+}
+#books-container {
+	width: 100%;
+	height: 15vw;
+	margin: auto;
+}
+
+#books-container .card {
+	font-size: 12px;
+}
+#books-container .card-title {
+	font-size: 16px;
+}
+
+/*Wand Display*/
+
+
+
+#wands-information {
+	background: url(../images/harry/bookstore.png) no-repeat center bottom;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-attachment: fixed;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	width: 100%;
+	display: table;
+	height: 80%;
+	min-height: 1550px;
+	text-align: center;
+	position: relative;
+}
+
+#wand-image {
+	width: 100%;
+	height: 11vw;
+	object-fit: cover;
+}
+
+#wands-container {
+
+	width: 100%;
+	height: 15vw;
+	margin: auto;
+}
+
+
+#wands-container .card-body {
+	background-color: #311312;
+	color: white;
+}
+
+#wands-container .card-body .btn {
+	background-color: #dacdcc;
+	color: black;
+}
+
+
+
+/*End Wand Part*/
+
+.container #main .p-3 {
+	text-align: center;
+	background-color: rgb(130, 175, 187);
+}
+
+
+#alert-wand {
+	color: rgb(143, 49, 49);
+}
+
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 600px; /* Full width */
+  height: 600px; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.card .btn {
+	font-size: 0.5rem;
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.form-group .form-control {
+	color: rgb(148, 48, 69);
+}
+
+
+.collection ul {
+	color: brown;
+}
+
+.text-light {
+	padding-bottom: 2rem;
+}
+
+.eighty {
+    background-color: #ccdee2;
+  }
+  
+  body {
+    background-color: #0c0e0a;
+  }
+  
+
+  .card {
+    margin: auto !important;
+  }
+	
