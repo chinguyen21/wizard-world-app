@@ -1,6 +1,6 @@
 # Wizard world app (Javascripts/Rails API Application)
 
-A wizard world application inspired by my favorite fiction book Harry Potter. It was made with Javascripts, Ruby, Rails, SQLite, Bootstrap, API, HTML, and CSS
+A wizard world application inspired by my favorite fiction book Harry Potter. It was made with Javascript, Ruby, Rails, SQLite, Bootstrap, API, HTML, and CSS
 
 
 ## TOOL
