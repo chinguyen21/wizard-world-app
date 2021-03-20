@@ -38,6 +38,12 @@ A wizard world application inspired by my favorite fiction book Harry Potter. It
 
 ## PREVIEW
 
-![](preview.png)
+![](preview_1.png)
+
+
+![](preview_2.png)
+
+
+![](preview_3.png)
 
 
