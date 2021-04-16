@@ -47,3 +47,7 @@ A wizard world application inspired by my favorite fiction book Harry Potter. It
 ![](preview_3.png)
 
 
+
+## DEMO
+
+[DEMO](https://wizards-world-app.netlify.app/)
