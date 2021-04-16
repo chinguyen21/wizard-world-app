@@ -48,6 +48,4 @@ A wizard world application inspired by my favorite fiction book Harry Potter. It
 
 
 
-## DEMO
-
-[DEMO](https://wizards-world-app.netlify.app/)
+## [DEMO](https://wizards-world-app.netlify.app/)
